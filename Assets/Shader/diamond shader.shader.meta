@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4443140fbd110a7011005aba44295342
+ShaderImporter:
+  defaultTextures:
+  - _ReflectTex: {fileID: 8900000, guid: b995d4bd9d11078d11005b9844295342, type: 3}
+  - _RefractTex: {fileID: 8900000, guid: 51e3f49dbd110a7011005aba44295342, type: 2}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

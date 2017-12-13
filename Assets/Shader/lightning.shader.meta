@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 76bbf69fb221ddd49892579233859000
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: cba202f4f8d561646bec31dbf8fdb97e, type: 3}
+  - _Noise: {fileID: 2800000, guid: 7a7aaffabf65628478fcdea53cd923e5, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
